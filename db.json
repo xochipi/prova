@@ -12,7 +12,7 @@
     {
       "id": 2,
       "titolo": "Lorem ipsum 2",
-      azienda": "Azienda s.r.l",
+      "azienda": "Azienda s.r.l",
       "luogo": "casa tua",
       "descrizione": "Lorem ipsum dolor sit amet",
       "tipoContratto": "part-time",
