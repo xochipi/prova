@@ -1,32 +1,9 @@
 {
-  "posts": [    
+  "posts": [
     {
       "id": 1,
-      "titolo": "Lorem ipsum 1",
-      "azienda": "Azienda s.r.l",
-      "luogo": "casa tua",
-      "descrizione": "Lorem ipsum dolor sit amet",
-      "tipoContratto": "part-time",
-      "retribuzione": 1000
-    },
-    {
-      "id": 2,
-      "titolo": "Lorem ipsum 2",
-      "azienda": "Azienda s.r.l",
-      "luogo": "casa tua",
-      "descrizione": "Lorem ipsum dolor sit amet",
-      "tipoContratto": "part-time",
-      "retribuzione": 1000
-    },
-    {
-      "id": 3,
-      "titolo": "Lorem ipsum 3",
-      "azienda": "Azienda s.r.l",
-      "luogo": "casa tua",
-      "descrizione": "Lorem ipsum dolor sit amet",
-      "tipoContratto": "part-time",
-      "retribuzione": 1000
-    },
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
